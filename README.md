@@ -10,9 +10,10 @@
 
 ## Review Data: 
 - [Reviews_DC.csv](https://github.com/JunjieTsai/TAD2019_jc9033/blob/master/Reviews_DC.csv): 40385 reviews for 46 DC movies; every review has the star and date infomation.
-- [Reviews_Marvel.csv](https://github.com/JunjieTsai/TAD2019_jc9033/blob/master/Reviews_Marvel.csv): 1186 reviews for 21 Marvel movies; every review has the star and date infomation.
+- [Reviews_Marvel.csv](https://github.com/JunjieTsai/TAD2019_jc9033/blob/master/Reviews_Marvel.csv): 21186 reviews for 21 Marvel movies; every review has the star and date infomation.
 
 **To be noticed:**
-- For each movie on rottentomatoes.com, maximum 51 pages (about 1000 comments) of audience reviews are available.
-- Some movie have reviews less than 1000. Do we exclude them?
+- For each movie on rottentomatoes.com, maximum first 51 pages (about 1000 comments) of audience reviews are available.
+- Reviews are in diffrent languages.
+- Some movie have reviews less than 1000. Do we exclude these movies?
 - Star 0 represents missing star data.
