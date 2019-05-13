@@ -1,12 +1,14 @@
 # Essential differences and similarities between Marvel and DC movies.
 
 ## Data wrangling
+### web crawler
+### preprocessing
 
 ## preliminary analysis
+### star histogram
 ### star/ box office time series
 ### Does better movie (represented by high score) achieve higher box office?
 linear model: box office against average star and year (since dollar purchasing power varies through time).  
-
 <br>
 
 ## Essential differences
@@ -19,4 +21,11 @@ label every movie with 5 words
 
 ## Similarities: recommended system, by reviews/ abstract
 ### For every movie, return a ranked similar movie list.  
-### Clustering.
+### Clustering
+
+## Discussion
+### Difference
+### Limitation and bias
+- data size
+- R computation capacity
+### Future work
