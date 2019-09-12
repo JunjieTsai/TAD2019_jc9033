@@ -1,5 +1,8 @@
 # Essential differences and similarities between Marvel and DC movies.
 
+## Paper
+https://www.authorea.com/372352/YuUg7DOopDT2Kir5B9U9EA
+
 ## Data wrangling
 ### web crawler
 ### preprocessing
